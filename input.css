@@ -1,0 +1,13 @@
+:root {
+
+--color-1: red;
+--color-2: blue;
+--color-3: green;	
+}
+
+
+body {
+	color: var(--color-1);
+	background-color: var(--color-2);
+}
+

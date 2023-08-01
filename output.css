@@ -1,0 +1,13 @@
+:root {
+
+--color-1: red;
+--color-2: blue;
+--color-3: green;	
+}
+
+
+body {
+	color: red;
+	background-color: blue;
+}
+
